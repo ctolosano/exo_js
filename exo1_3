@@ -1,0 +1,6 @@
+let n = 1;
+
+while (n<=1000) {
+    console.log(n);
+    n=n+2;
+}
